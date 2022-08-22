@@ -51,3 +51,7 @@ span{
 #button:hover {
     background-color: #7a4da5;
 }
+
+img {
+    box-shadow: -3px 5px 7px #000;
+}
